@@ -1,0 +1,32 @@
+# mapstyles
+
+[![R CMD
+CHECK](https://github.com/jimbrig/mapsyles/actions/workflows/check.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/check.yml)
+[![Automate
+Changelog](https://github.com/jimbrig/mapsyles/actions/workflows/changelog.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/changelog.yml)
+[![Format
+Check](https://github.com/jimbrig/mapsyles/actions/workflows/format-check.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/format-check.yml)
+[![pkgdown](https://github.com/jimbrig/mapsyles/actions/workflows/pkgdown.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/pkgdown.yml)
+
+The goal of mapstyles is to …
+
+## Installation
+
+You can install the development version of mapstyles from
+[GitHub](https://github.com/) with:
+
+``` r
+
+# install.packages("pak")
+pak::pak("jimbrig/mapstyles")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+
+library(mapstyles)
+## basic example code
+```
