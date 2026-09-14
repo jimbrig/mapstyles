@@ -3,12 +3,10 @@
 
 <!-- badges: start -->
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jimbrig/mapstyles)
-[![R Universe Version](https://jimbrig.r-universe.dev/mapstyles/badges/version)](https://jimbrig.r-universe.dev/mapstyles)
 
-[![R CMD CHECK](https://github.com/jimbrig/mapsyles/actions/workflows/check.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/check.yml)
-[![Automate Changelog](https://github.com/jimbrig/mapsyles/actions/workflows/changelog.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/changelog.yml)
-[![Format Check](https://github.com/jimbrig/mapsyles/actions/workflows/format-check.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/format-check.yml)
-[![pkgdown](https://github.com/jimbrig/mapsyles/actions/workflows/pkgdown.yml/badge.svg)](https://github.com/jimbrig/mapsyles/actions/workflows/pkgdown.yml)
+[![R CMD CHECK](https://github.com/jimbrig/mapstyles/actions/workflows/check.yml/badge.svg)](https://github.com/jimbrig/mapstyles/actions/workflows/check.yml)
+[![Automate Changelog](https://github.com/jimbrig/mapstyles/actions/workflows/changelog.yml/badge.svg)](https://github.com/jimbrig/mapstyles/actions/workflows/changelog.yml)
+[![pkgdown](https://github.com/jimbrig/mapstyles/actions/workflows/pkgdown.yml/badge.svg)](https://github.com/jimbrig/mapstyles/actions/workflows/pkgdown.yml)
 <!-- badges: end -->
 
 The goal of mapstyles is to ...
