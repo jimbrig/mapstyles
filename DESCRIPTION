@@ -1,0 +1,21 @@
+Package: mapstyles
+Title: Modern Map Styles Toolkit
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jimmy", "Briggs", , "jimmy.briggs@jimbrig.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7489-8787"))
+Description: Provides an experiemental S7 object model for constructing,
+    validating, converting, and managing Maplibre Style Specification
+    documents.
+License: MIT + file LICENSE
+Depends: 
+    R (>= 4.2.0)
+Imports: 
+    rlang (>= 1.1.0),
+    S7 (>= 0.2)
+Config/rcmdcheck/ignore-inconsequential-notes: true
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.0
