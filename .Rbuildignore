@@ -2,3 +2,17 @@
 ^mapstyles\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^\.github$
+^AGENTS\.md$
+^\.cursor$
+^\.vscode$
+^\.Rprofile$
+^mapstyles\.code-workspace$
+^\.editorconfig$
+^\.gitattributes$
+^\.cursorignore$
+^CHANGELOG\.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^[.]?air[.]toml$
